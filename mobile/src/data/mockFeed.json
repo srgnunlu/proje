@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Güneş Enerjisiyle Şehir Aydınlatması",
+    "summary": "Yeni nesil güneş panelleri kamu alanlarını gece boyunca aydınlatıyor.",
+    "body": "Avrupa'nın pek çok şehrinde uygulanan pilot program, güneş enerjili aydınlatma sistemlerinin enerji tüketimini %40'a kadar azalttığını gösterdi. Sensör tabanlı çözümlerle birleşince, gereksiz ışık kirliliğinin de önüne geçiliyor.",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "title": "Uzaktan Çalışmada Hibrit Kültür",
+    "summary": "Şirketler ekip bağlılığını artırmak için hibrit çalışma modellerini yeniden tasarlıyor.",
+    "body": "Dijital işbirliği platformlarının yükselişi, ekiplerin fiziksel ve sanal alanları dengeli kullanmasını sağlıyor. Eğitim, sosyal etkinlikler ve performans takip sistemleri hibrit yapıya göre yeniden kurgulanıyor.",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "3",
+    "title": "Tarımda Nesnelerin İnterneti",
+    "summary": "IoT sensörleri küçük ölçekli üreticilerin verimliliğini artırıyor.",
+    "body": "Toprak nemi, hava koşulları ve bitki sağlığına dair veriler, çiftçilere erken uyarı sistemi sunarak su ve gübre kullanımını optimize ediyor. Bu sayede sürdürülebilir üretim modelleri yaygınlaşıyor.",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80"
+  }
+]

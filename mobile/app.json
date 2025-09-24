@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "MobileFeed",
+    "slug": "mobile-feed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "extra": {
+      "openAiApiKey": "",
+      "openAiBaseUrl": "https://api.openai.com/v1"
+    }
+  }
+}
